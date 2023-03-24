@@ -1,0 +1,12 @@
+{
+  "name": "alphachaserbot",
+  "version": "1.0.0",
+  "description": "Your app description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    ...
+  }
+}
